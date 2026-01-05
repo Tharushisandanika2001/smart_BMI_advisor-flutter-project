@@ -27,12 +27,13 @@ A fully functional, cross-platform application for calculating **Body Mass Index
 
 ```bash
 cd backend
-python main.py
+python app1.py
 ```
 
 ### Run Frontend
 
 ```bash
+cd my_web_app
 flutter pub get
 flutter run
 ```
